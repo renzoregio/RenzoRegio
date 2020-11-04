@@ -1,7 +1,9 @@
 Greetings!
 
 💻 I'm currently working on an Airbnb Clone
+
 📖 I'm currently learning Django and Python
+
 📱 How to reach me: renzoregio@gmail.com
 
 
