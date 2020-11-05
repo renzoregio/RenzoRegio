@@ -6,6 +6,7 @@ Greetings!
 
 📱 How to reach me: renzorregio@gmail.com
 
+🖊 Blog: https://renzoregio.medium.com/
 
 <!--
 **rmrrcreate/rmrrcreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
