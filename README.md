@@ -4,7 +4,7 @@ Greetings!
 
 📖 I'm currently learning Django and Python
 
-📱 How to reach me: renzoregio@gmail.com
+📱 How to reach me: renzorregio@gmail.com
 
 
 <!--
