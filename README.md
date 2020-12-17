@@ -7,6 +7,8 @@ Greetings!
 🖊 Blog: https://renzoregio.medium.com/
 
 
+-------
+
 💻 Projects:
 
 Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/
