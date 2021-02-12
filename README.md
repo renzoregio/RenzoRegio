@@ -9,22 +9,21 @@ Greetings!
 
 -------
 
-HTML & CSS Project:
+HTML & CSS Project
 
   Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/
 
 -------
 
-JavaScript Projects:
+JavaScript Projects
   
   
-  Clone:
   
   Momentum Chrome Clone: https://renzoregio.github.io/momentum-clone/
   
   
   
-  Treehouse Full Stack JavaScript Techdegree:
+  Treehouse Full Stack JavaScript Techdegree
   
   Random Quote Generator: https://renzoregio.github.io/random-quote-generator/
 
@@ -44,7 +43,7 @@ JavaScript Projects:
   
   
   
-  Practice Projects:
+  Practice Projects
   
   RSVP Application: https://renzoregio.github.io/rsvp-application/
   
@@ -55,8 +54,6 @@ JavaScript Projects:
     
 Python & Django Project:
   
-  
-  Clone:
   
   Airbnb Clone: https://github.com/RenzoRegio/airbnb-clone
 
