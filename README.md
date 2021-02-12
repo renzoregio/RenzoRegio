@@ -15,7 +15,7 @@ Greetings!
 
 -------
 
-##JavaScript Projects 
+## JavaScript Projects 
   
   
   
@@ -23,7 +23,7 @@ Greetings!
   
   
   
-  ----- **Treehouse Full Stack JavaScript Techdegree** -----
+  ###### Treehouse Full Stack JavaScript Techdegree
   
   Random Quote Generator: https://renzoregio.github.io/random-quote-generator/
 
@@ -43,7 +43,7 @@ Greetings!
   
   
   
-  ----- **Practice Projects** -----
+ ###### Practice Projects
   
   RSVP Application: https://renzoregio.github.io/rsvp-application/
   
@@ -52,7 +52,7 @@ Greetings!
 
 -------
     
-##Python & Django Project:
+## Python & Django Project:
   
   
   Airbnb Clone: https://github.com/RenzoRegio/airbnb-clone
