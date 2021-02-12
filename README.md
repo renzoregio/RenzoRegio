@@ -18,6 +18,7 @@ JavaScript Projects:
   Clone:
     Momentum Chrome Clone: https://renzoregio.github.io/momentum-clone/
   
+  
   Treehouse Full Stack JavaScript Techdegree:
     Random Quote Generator: https://renzoregio.github.io/random-quote-generator/
     Data Pagination and Filtering: https://renzoregio.github.io/data-pagination-filtering/
@@ -27,7 +28,13 @@ JavaScript Projects:
     Static Node.js and Express Site: https://github.com/RenzoRegio/static-nodejs-express-site
     React Photo Gallery: https://renzoregio.github.io/react-photo-gallery/
     SQL Library Manager: https://github.com/RenzoRegio/sql-library-manager
-    
+  
+  
+  Practice Projects:
+    RSVP Application: https://renzoregio.github.io/rsvp-application/
+    Four in a Row Game: https://renzoregio.github.io/four-in-a-row-game/
+  
+  
 Python & Django Project:
   
   Clone:
