@@ -21,7 +21,7 @@
   
   
   
-  * Treehouse Full Stack JavaScript Techdegree
+  * __Treehouse Full Stack JavaScript Techdegree__
   
     * Random Quote Generator: https://renzoregio.github.io/random-quote-generator/
 
@@ -41,7 +41,7 @@
   
   
   
-  * Practice Projects
+  * __Practice Projects__
   
     * RSVP Application: https://renzoregio.github.io/rsvp-application/
 
