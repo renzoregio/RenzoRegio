@@ -9,7 +9,7 @@ Greetings!
 
 -------
 
-##HTML & CSS Project
+## HTML & CSS Project
 
   Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/
 
