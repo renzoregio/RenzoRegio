@@ -13,11 +13,14 @@ HTML & CSS Project:
 
   Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/
 
+
 JavaScript Projects:
+  
   
   Clone:
   
   Momentum Chrome Clone: https://renzoregio.github.io/momentum-clone/
+  
   
   
   Treehouse Full Stack JavaScript Techdegree:
@@ -39,6 +42,7 @@ JavaScript Projects:
   SQL Library Manager: https://github.com/RenzoRegio/sql-library-manager
   
   
+  
   Practice Projects:
   
   RSVP Application: https://renzoregio.github.io/rsvp-application/
@@ -46,7 +50,9 @@ JavaScript Projects:
   Four in a Row Game: https://renzoregio.github.io/four-in-a-row-game/
   
   
+  
 Python & Django Project:
+  
   
   Clone:
   
