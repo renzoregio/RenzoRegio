@@ -23,7 +23,7 @@ JavaScript Projects
   
   
   
-  ----- Treehouse Full Stack JavaScript Techdegree -----
+  ----- **Treehouse Full Stack JavaScript Techdegree** -----
   
   Random Quote Generator: https://renzoregio.github.io/random-quote-generator/
 
