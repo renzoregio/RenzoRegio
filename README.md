@@ -9,13 +9,13 @@ Greetings!
 
 -------
 
-HTML & CSS Project
+##HTML & CSS Project
 
   Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/
 
 -------
 
-JavaScript Projects 
+##JavaScript Projects 
   
   
   
@@ -43,7 +43,7 @@ JavaScript Projects
   
   
   
-  ----- Practice Projects -----
+  ----- **Practice Projects** -----
   
   RSVP Application: https://renzoregio.github.io/rsvp-application/
   
@@ -52,7 +52,7 @@ JavaScript Projects
 
 -------
     
-Python & Django Project:
+##Python & Django Project:
   
   
   Airbnb Clone: https://github.com/RenzoRegio/airbnb-clone
