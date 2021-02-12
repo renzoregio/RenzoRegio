@@ -15,7 +15,7 @@ HTML & CSS Project
 
 -------
 
-JavaScript Projects
+JavaScript Projects 
   
   
   
@@ -23,7 +23,7 @@ JavaScript Projects
   
   
   
-  Treehouse Full Stack JavaScript Techdegree
+  Treehouse Full Stack JavaScript Techdegree -----
   
   Random Quote Generator: https://renzoregio.github.io/random-quote-generator/
 
@@ -43,7 +43,7 @@ JavaScript Projects
   
   
   
-  Practice Projects
+  Practice Projects -----
   
   RSVP Application: https://renzoregio.github.io/rsvp-application/
   
