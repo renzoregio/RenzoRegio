@@ -13,6 +13,7 @@ HTML & CSS Project:
 
   Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/
 
+-------
 
 JavaScript Projects:
   
@@ -48,9 +49,10 @@ JavaScript Projects:
   RSVP Application: https://renzoregio.github.io/rsvp-application/
   
   Four in a Row Game: https://renzoregio.github.io/four-in-a-row-game/
-  
-  
-  
+
+
+-------
+    
 Python & Django Project:
   
   
