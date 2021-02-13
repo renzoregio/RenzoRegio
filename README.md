@@ -1,6 +1,8 @@
 
 💻 I'm currently working on Treehouse JavaScript Techdegree
 
+👁 Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)!
+
 📱 How to reach me: renzorregio@gmail.com
 
 🖊 Blog: https://renzoregio.medium.com/
