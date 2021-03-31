@@ -1,7 +1,9 @@
 
-💻 I'm currently working on Treehouse JavaScript Techdegree
+🏫 Currently enrolled in a Computer Systems Technology Program in Vancouver
 
-👁 Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)!
+🎓 Self-taught web developer who recently graduated with a Full Stack JavaScript Techdegree from Treehouse
+
+🏡  Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)!
 
 📱 How to reach me: renzorregio@gmail.com
 
@@ -9,8 +11,14 @@
 
 
 -------
+# Clone Projects
 
-# HTML & CSS Project
+  * Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/ - HTML and CSS
+  * Airbnb Clone: https://github.com/RenzoRegio/airbnb-clone - Python, Django, Tailwind CSS and HTML
+  * Twitter (Tweeter) Clone - https://renzoregio.github.io/Tweeter/#/ - JavaScript, React, and CSS
+  * Momentum Clone (Chrome Extension): https://renzoregio.github.io/momentum-clone/ - JavaScript, HTML and CSS
+
+# HTML & CSS Project (First Project)
 
   * Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/
 
@@ -18,7 +26,7 @@
 # JavaScript Projects 
   
   
-  
+  * Twitter (Tweeter) Clone - https://renzoregio.github.io/Tweeter/#/ - JavaScript, React, and CSS
   * Momentum Chrome Clone: https://renzoregio.github.io/momentum-clone/
   
   
@@ -51,7 +59,7 @@
 
 
     
-# Python & Django Project:
+# Python & Django Project
   
   
   * Airbnb Clone: https://github.com/RenzoRegio/airbnb-clone
