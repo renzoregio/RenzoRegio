@@ -1,53 +1,67 @@
 
-🏫 Currently enrolled in a Computer Systems Technology Program in Vancouver
+🏫 &nbsp; Currently a Computer Systems Technology student in Vancouver 
 
-🎓 Self-taught web developer who recently graduated with a Full Stack JavaScript Techdegree from Treehouse
+🎓 &nbsp; Previously a self-taught web developer who recently graduated with a Full Stack JavaScript Techdegree from Treehouse
 
-🏡  Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)!
+* 🏡 &nbsp; Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)!
 
-
-
-🖊 Blog: https://renzoregio.medium.com/
-
-
-### Connect with me
-
-<a href="mailto:renzoregio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+ 
 -------
-### CLONES
-
-  * [KakaoTalk](https://renzoregio.github.io/kokoa-clone/) - HTML and CSS
-  * [Airbnb](https://github.com/RenzoRegio/airbnb-clone) - Python, Django, Tailwind CSS and HTML
-  * [Twitter](https://renzoregio.github.io/Tweeter/#/) - JavaScript, React, and CSS
-  * [Momentum](https://renzoregio.github.io/momentum-clone/) - JavaScript, HTML and CSS
 
 
-# JavaScript Projects 
+### LANGUAGES
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
+
+### FRAMEWORKS
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+### DATABASE
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+### PROJECTS
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  * [KakaoTalk](https://renzoregio.github.io/kokoa-clone/) 
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   
   
-  * Twitter (Tweeter) Clone - https://renzoregio.github.io/Tweeter/#/ - JavaScript, React, and CSS
-  * Momentum Chrome Clone: https://renzoregio.github.io/momentum-clone/
+  * [Twitter](https://renzoregio.github.io/Tweeter/#/)
+  * [Momentum](https://renzoregio.github.io/momentum-clone/)
   
   
   
   * __Treehouse Full Stack JavaScript Techdegree__
   
-    * Random Quote Generator: https://renzoregio.github.io/random-quote-generator/
+    * [Random Quote Generator](https://renzoregio.github.io/random-quote-generator/)
 
-    * Data Pagination and Filtering: https://renzoregio.github.io/data-pagination-filtering/
+    * [Data Pagination and Filtering](https://renzoregio.github.io/data-pagination-filtering/)
 
-    * Interactive Form: https://renzoregio.github.io/interactive-form/
+    * [Interactive Form](https://renzoregio.github.io/interactive-form/)
 
-    * OOP (Object Oriented Programming) Game Show App: https://renzoregio.github.io/OOP-game-show-app/
+    * [OOP (Object Oriented Programming) Game Show App](https://renzoregio.github.io/OOP-game-show-app/)
 
-    * Employee Directory (Public API Requests): https://renzoregio.github.io/employee-directory-public-api-requests/
+    * [Employee Directory (Public API Requests)](https://renzoregio.github.io/employee-directory-public-api-requests/)
 
-    * Static Node.js and Express Site: https://github.com/RenzoRegio/static-nodejs-express-site
+    * [Static Node.js and Express Site](https://github.com/RenzoRegio/static-nodejs-express-site)
 
-    * React Photo Gallery: https://renzoregio.github.io/react-photo-gallery/
+    * [React Photo Gallery](https://renzoregio.github.io/react-photo-gallery/)
 
-    * SQL Library Manager: https://github.com/RenzoRegio/sql-library-manager
+    * [SQL Library Manager](https://github.com/RenzoRegio/sql-library-manager)
   
   
   
@@ -59,24 +73,14 @@
 
 
     
-# Python & Django Project
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   
   
-  * Airbnb Clone: https://github.com/RenzoRegio/airbnb-clone
+  * [Airbnb](https://github.com/RenzoRegio/airbnb-clone)
 
 
+### Connect with me
 
-<!--
-**rmrrcreate/rmrrcreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:renzoregio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://renzoregio.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/renzo-miguel-regio-aab598126/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
