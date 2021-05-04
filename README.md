@@ -5,6 +5,11 @@
 
 * 🏡 &nbsp; Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)
 
+### CONNECT WITH ME
+
+<a href="mailto:renzoregio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://renzoregio.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/renzo-miguel-regio-aab598126/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  
 -------
 
@@ -88,8 +93,4 @@
   * [Airbnb Clone](https://github.com/RenzoRegio/airbnb-clone)
 
 
-### Connect with me
 
-<a href="mailto:renzoregio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://renzoregio.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/renzo-miguel-regio-aab598126/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
