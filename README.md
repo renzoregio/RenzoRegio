@@ -3,7 +3,7 @@
 
 🎓 &nbsp; Previously a self-taught web developer who recently graduated with a Full Stack JavaScript Techdegree from Treehouse
 
-* 🏡 &nbsp; Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)!
+* 🏡 &nbsp; Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)
 
  
 -------
@@ -35,48 +35,54 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  * [KakaoTalk](https://renzoregio.github.io/kokoa-clone/) 
+
+  * [KakaoTalk Clone](https://renzoregio.github.io/kokoa-clone/) 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
-  
-  * [Twitter](https://renzoregio.github.io/Tweeter/#/)
-  * [Momentum](https://renzoregio.github.io/momentum-clone/)
-  
-  
-  
-  * __Treehouse Full Stack JavaScript Techdegree__
-  
-    * [Random Quote Generator](https://renzoregio.github.io/random-quote-generator/)
 
-    * [Data Pagination and Filtering](https://renzoregio.github.io/data-pagination-filtering/)
-
-    * [Interactive Form](https://renzoregio.github.io/interactive-form/)
-
-    * [OOP (Object Oriented Programming) Game Show App](https://renzoregio.github.io/OOP-game-show-app/)
-
-    * [Employee Directory (Public API Requests)](https://renzoregio.github.io/employee-directory-public-api-requests/)
-
-    * [Static Node.js and Express Site](https://github.com/RenzoRegio/static-nodejs-express-site)
-
-    * [React Photo Gallery](https://renzoregio.github.io/react-photo-gallery/)
-
-    * [SQL Library Manager](https://github.com/RenzoRegio/sql-library-manager)
+  * [Momentum Clone](https://renzoregio.github.io/momentum-clone/)
+ 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
   
-  
-  
-  * __Practice Projects__
-  
-    * RSVP Application: https://renzoregio.github.io/rsvp-application/
+  * [Twitter Clone](https://renzoregio.github.io/Tweeter/#/)
+  * [React Photo Gallery](https://renzoregio.github.io/react-photo-gallery/)
 
-    * Four in a Row Game: https://renzoregio.github.io/four-in-a-row-game/
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  * [Weather App](https://expo.io/@renzoregio/projects/weather-app) - Scan QR with Expo to access app
+
+<details>
+ <summary>Treehouse JavaScript Projects</summary>
+ 
+* [Random Quote Generator](https://renzoregio.github.io/random-quote-generator/)
+
+* [Data Pagination and Filtering](https://renzoregio.github.io/data-pagination-filtering/)
+
+* [Interactive Form](https://renzoregio.github.io/interactive-form/)
+
+* [OOP (Object Oriented Programming) Game Show App](https://renzoregio.github.io/OOP-game-show-app/)
+
+* [Employee Directory (Public API Requests)](https://renzoregio.github.io/employee-directory-public-api-requests/)
+
+* [Static Node.js and Express Site](https://github.com/RenzoRegio/static-nodejs-express-site)
+
+* [React Photo Gallery](https://renzoregio.github.io/react-photo-gallery/)
+
+* [SQL Library Manager](https://github.com/RenzoRegio/sql-library-manager)
 
 
-    
+
+  __Practice Projects__
+
+    * [RSVP Application](https://renzoregio.github.io/rsvp-application/)
+
+    * [Four in a Row Game](https://renzoregio.github.io/four-in-a-row-game/)
+
+</details>
+  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   
-  
-  * [Airbnb](https://github.com/RenzoRegio/airbnb-clone)
+  * [Airbnb Clone](https://github.com/RenzoRegio/airbnb-clone)
 
 
 ### Connect with me
