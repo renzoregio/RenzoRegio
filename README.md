@@ -40,19 +40,11 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  * [Momentum Clone](https://renzoregio.github.io/momentum-clone/)
- 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  * [Twitter Clone](https://renzoregio.github.io/Tweeter/#/)
-  * [React Photo Gallery](https://renzoregio.github.io/react-photo-gallery/)
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  * [Weather App](https://expo.io/@renzoregio/projects/weather-app) - Scan QR with Expo to access app
-
-<details>
+  * [Momentum Clone](https://renzoregio.github.io/momentum-clone/) - Vanilla JS
+ <details>
  <summary>Treehouse JavaScript Projects</summary>
+ 
+> Step by step process of how I learned how to write JavaScript - Through Projects 
  
 * [Random Quote Generator](https://renzoregio.github.io/random-quote-generator/)
 
@@ -79,6 +71,18 @@
     * [Four in a Row Game](https://renzoregio.github.io/four-in-a-row-game/)
 
 </details>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  * [Twitter Clone](https://renzoregio.github.io/Tweeter/#/)
+  * [React Photo Gallery](https://renzoregio.github.io/react-photo-gallery/)
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  * [Weather App](https://expo.io/@renzoregio/projects/weather-app) - Scan QR with Expo to access app
+
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   
