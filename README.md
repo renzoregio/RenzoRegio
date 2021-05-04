@@ -5,22 +5,22 @@
 
 🏡  Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)!
 
-📱 How to reach me: renzorregio@gmail.com
+
 
 🖊 Blog: https://renzoregio.medium.com/
 
 
+### Connect with me
+
+<a href="renzoregio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 -------
-# Clone Projects
+### CLONES
 
-  * Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/ - HTML and CSS
-  * Airbnb Clone: https://github.com/RenzoRegio/airbnb-clone - Python, Django, Tailwind CSS and HTML
-  * Twitter (Tweeter) Clone - https://renzoregio.github.io/Tweeter/#/ - JavaScript, React, and CSS
-  * Momentum Clone (Chrome Extension): https://renzoregio.github.io/momentum-clone/ - JavaScript, HTML and CSS
-
-# HTML & CSS Project (First Project)
-
-  * Kakaotalk Clone: https://renzoregio.github.io/kokoa-clone/
+  * [KakaoTalk](https://renzoregio.github.io/kokoa-clone/) - HTML and CSS
+  * [Airbnb](https://github.com/RenzoRegio/airbnb-clone) - Python, Django, Tailwind CSS and HTML
+  * [Twitter](https://renzoregio.github.io/Tweeter/#/) - JavaScript, React, and CSS
+  * [Momentum](https://renzoregio.github.io/momentum-clone/) - JavaScript, HTML and CSS
 
 
 # JavaScript Projects 
