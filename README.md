@@ -1,3 +1,4 @@
+### BACKGROUND
 
 🏫 &nbsp; Currently a Computer Systems Technology student in Vancouver 
 
