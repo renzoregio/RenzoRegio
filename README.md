@@ -1,4 +1,4 @@
-### BACKGROUND
+### Hi, my name is Renzo! Nice to meet you 👋
 
 🏫 &nbsp; Currently a Computer Systems Technology student in Vancouver 
 
@@ -6,13 +6,14 @@
 
 * 🏡 &nbsp; Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)
 
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoregio&" alt="renzoregio" /></div>
+
+
 ### CONNECT WITH ME
 
 <a href="mailto:renzoregio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://renzoregio.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/renzo-miguel-regio-aab598126/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
- 
--------
 
 
 ### LANGUAGES
@@ -92,6 +93,3 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   
   * [Airbnb Clone](https://github.com/RenzoRegio/airbnb-clone)
-
-
-
