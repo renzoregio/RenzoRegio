@@ -6,7 +6,7 @@
 
 * 🏡 &nbsp; Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoregio&" alt="renzoregio" /></div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renzoregio&theme=dark)](https://git.io/streak-stats)
 
 
 ### CONNECT WITH ME
