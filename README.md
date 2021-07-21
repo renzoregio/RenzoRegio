@@ -1,8 +1,8 @@
 ### Hi, my name is Renzo! Nice to meet you 👋
 
-🏫 &nbsp; Currently a Computer Systems Technology student in Vancouver 
+🏫 &nbsp; Currently a Computer Systems Technology student in Vancouver, Canada
 
-🎓 &nbsp; Previously a self-taught web developer who recently graduated with a Full Stack JavaScript Techdegree from Treehouse
+🎓 &nbsp; Full Stack JavaScript Techdegree Graduate from Treehouse
 
 * 🏡 &nbsp; Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)
 
