@@ -6,6 +6,9 @@
 
 * 🏡 &nbsp; Checkout my Treehouse profile [here](https://teamtreehouse.com/renzoregio)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renzoregio&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 ### CONNECT WITH ME
 
 <a href="mailto:renzoregio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
