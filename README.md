@@ -1,6 +1,6 @@
 ### Hi, my name is Renzo! Nice to meet you 👋
 
-🏫 &nbsp; Currently a Computer Science student in Vancouver, Canada
+🏫 &nbsp; Currently a Computer Science student in Kwantlen Polytechnic University
 
 🎓 &nbsp; Full Stack JavaScript Techdegree Graduate from Treehouse
 
